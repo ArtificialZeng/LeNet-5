@@ -10,6 +10,7 @@ This implements a slightly modified LeNet-5 [LeCun et al., 1998a] and achieves a
 Install all dependencies using the following command
 
 numpy>=1.17.0
+
 torch>=1.4.0
 torchvision>=0.4.0
 visdom>=0.1.6
