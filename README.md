@@ -12,9 +12,13 @@ Install all dependencies using the following command
 numpy>=1.17.0
 
 torch>=1.4.0
+
 torchvision>=0.4.0
+
 visdom>=0.1.6
+
 Pillow==6.2.0
+
 onnx==1.6.0
 
 ```
